@@ -40,3 +40,7 @@ Description : Prise de point de vue sur la lune<br/>
 -**`/webdocressources/9`**<br/>
 Vidéo : Change 3<br/>
 Description : Prise de point de vue sur la lune<br/>
+
+-**`/webdocressources/10`**<br/>
+Vidéo : MoonLoop<br/>
+Description : Loop de la Lune<br/>
